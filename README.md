@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey! I am Anmol <br><br>Currently a BCA(Bachelor of Computer Applications) Student<br><br>Currently learning Full Stack Development
+Hey! I am Anmol <br><br>Currently a **BCA**(Bachelor of Computer Applications) Student<br><br>Currently learning Full Stack Development
 
 
 ## 🌐 Socials:
@@ -39,8 +39,5 @@ Hey! I am Anmol <br><br>Currently a BCA(Bachelor of Computer Applications) Stude
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)
 
 </div>
-
----
-[![](https://visitcount.itsvg.in/api?id=AnmolDx&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
